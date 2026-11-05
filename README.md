@@ -16,6 +16,8 @@ Elle permet de parcourir les tables, de consulter leurs données dans plusieurs 
 - Tri des résultats en cliquant sur les en-têtes.
 - Actualisation des données et affichage de la requête utilisée.
 - Éditeur SQL avec confirmation pour les instructions ne commençant pas par `SELECT`.
+  <img width="1083" height="712" alt="Capture d&#39;écran 2026-11-05 131713" src="https://github.com/user-attachments/assets/39cbb029-ce8b-49dc-8a5d-4e17ca3903a3" />
+
 - Gestion des erreurs de connexion et d’exécution SQL.
 
 > Les grilles sont en lecture seule et affichent au maximum 500 lignes. Les modifications exécutées depuis l’éditeur SQL sont appliquées immédiatement.
