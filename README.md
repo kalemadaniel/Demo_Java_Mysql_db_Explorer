@@ -7,8 +7,12 @@ Elle permet de parcourir les tables, de consulter leurs données dans plusieurs 
 ## Fonctionnalités
 
 - Connexion configurable : serveur, port, base, utilisateur et mot de passe.
+  <img width="475" height="287" alt="Capture d&#39;écran 2026-11-05 130940" src="https://github.com/user-attachments/assets/28a4542a-1c1c-4749-98cb-003cde048403" />
+
 - Navigation dans les tables et les vues.
 - Affichage des données dans des fenêtres déplaçables et redimensionnables.
+  <img width="1920" height="1020" alt="Capture d&#39;écran 2026-11-05 131249" src="https://github.com/user-attachments/assets/67f1b0aa-64a3-404c-984b-4df8b5b4014e" />
+
 - Tri des résultats en cliquant sur les en-têtes.
 - Actualisation des données et affichage de la requête utilisée.
 - Éditeur SQL avec confirmation pour les instructions ne commençant pas par `SELECT`.
